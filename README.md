@@ -1,6 +1,3 @@
-<target="_blank"><img src="https://imgur.com/a/zSKnL8t" width="400" alt="The Gaming Hub Logo"></a></p>
-
-
 ## About The Gaming Hub
 
 Projekt Code Name: The Gaming Hub.
