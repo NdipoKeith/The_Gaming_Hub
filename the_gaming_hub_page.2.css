@@ -1,0 +1,358 @@
+.component-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .relative-wrapper-three {
+    margin-bottom: 411px;
+    position: relative;
+  }
+  .header-link-logo-franchise-black-en {
+    width: 16.35%;
+    height: 7.38%;
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url("https://static.overlay-tech.com/assets/0ee2cce2-2c15-4d79-82f6-c7868a1d7810.png");
+    position: absolute;
+    left: 40px;
+    top: 46px;
+  }
+  .flex-wrapper-one {
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url("https://static.overlay-tech.com/assets/3f13b91a-9b4d-41fc-a71b-0dd7201cec8e.png");
+    padding: 58px 40px 984px 1244.53px;
+    position: relative;
+  }
+  .div-menumask {
+    width: 635.47px;
+    height: 48px;
+  }
+  .div-l-newsletter {
+    width: calc(100% - 1149px);
+    height: calc(38.62% - 170.2px);
+    background-color: rgba(252, 10, 97, 1);
+    padding: 12px 574.5px 158.2px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    left: 0;
+    bottom: -411px;
+  }
+  .sign-up-for-the-official-gaming-hub-news {
+    font-family: "Inter";
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 1);
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+  }
+  .from-games-to-beyond-keep-your-feed-up {
+    height: 27px;
+    width: 764px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 44px;
+    margin-left: 3.5px;
+  }
+  .relative-wrapper-two {
+    margin-left: 13.5px;
+    position: relative;
+  }
+  .p-l-newsletter-text {
+    width: 763.72px;
+    height: 51px;
+    position: absolute;
+    left: calc(50% - 763.72px / 2);
+    top: -34px;
+  }
+  .form {
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+  }
+  .div {
+    margin-right: 20px;
+    padding: 0 0 45.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-self: stretch;
+    position: relative;
+  }
+  .relative-wrapper-one {
+    margin-bottom: 10.2px;
+    position: relative;
+  }
+  .input {
+    width: 512px;
+    height: 40.8px;
+    position: relative;
+  }
+  .label-enter-your-email-address {
+    height: 23px;
+    width: 251px;
+    font-family: "Inter";
+    font-size: 21px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 8px;
+    top: 7px;
+  }
+  .div-l-newsletter-caret {
+    width: 4px;
+    height: 20px;
+    background-color: rgba(0, 0, 0, 1);
+    position: absolute;
+    left: 0;
+    top: 8px;
+  }
+  .flex-wrapper-two {
+    display: flex;
+    align-items: flex-start;
+  }
+  .div-c-checkbox {
+    width: 12px;
+    height: 12px;
+    margin-top: 0.8px;
+    margin-right: 10px;
+    border: 1px solid rgba(0, 0, 0, 1);
+  }
+  .i-would-like-to-receive-news-special-of {
+    height: 29px;
+    width: 488px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+  }
+  .welcome-to-gaming-the-gaming-hub-will {
+    height: 37px;
+    width: 468px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 20px;
+    bottom: -18.2px;
+    font-family: "Inter";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    color: rgba(0, 0, 0, 1);
+  }
+  .div-two {
+    padding: 0 0 77.8px;
+    display: flex;
+    align-items: flex-start;
+    align-self: stretch;
+  }
+  .button {
+    padding: 16px 77px 17px 76px;
+    display: flex;
+    align-items: center;
+  }
+  .submit {
+    height: 15px;
+    width: 59px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgba(0, 0, 0, 1);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .before {
+    width: 100%;
+    height: 62px;
+    position: absolute;
+    left: -34px;
+    top: 280px;
+  }
+  .razor-bottom-black-4930e500-svg {
+    overflow: hidden;
+    position: absolute;
+    left: calc(50% - 1920px / 2);
+    top: 393px;
+  }
+  .vector {
+    width: 100%;
+    height: 100.03%;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .relative-wrapper-four {
+    height: 3.78%;
+    align-self: stretch;
+    position: relative;
+  }
+  .div-separator {
+    width: 99.95%;
+    height: 6.78%;
+    background-color: rgba(6, 166, 216, 1);
+    position: absolute;
+    left: 0;
+    top: 1px;
+  }
+  .after {
+    width: calc(100% - 80px);
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 40px;
+    top: 26px;
+  }
+  .footer {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 1);
+    position: relative;
+  }
+  .div-content {
+    padding: 0 24px 2px;
+    position: absolute;
+    left: calc(50% - 1360px / 2);
+    top: 1px;
+  }
+  .div-socials {
+    width: calc(100% - 1014px);
+    height: calc(100% - 100px);
+    margin-bottom: -42px;
+    padding: 1px 503px 0 0;
+  }
+  .span {
+    margin-bottom: -31px;
+    position: relative;
+  }
+  .find-us-on {
+    height: 18px;
+    width: 83.45px;
+    font-family: "Inter";
+    font-size: 15px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgba(203, 203, 203, 1);
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    position: absolute;
+    right: -0.2px;
+    top: 2px;
+  }
+  .youtube-cb066cae-svg {
+    margin-bottom: -40px;
+    margin-left: 103.25px;
+    padding: 5px 7.5px 6.25px;
+  }
+  .clip0-1524-2903 {
+    width: 25px;
+    height: 28.75px;
+  }
+  .facebook-607a7626-svg {
+    margin-bottom: -40px;
+    margin-left: 155.25px;
+    padding: 5px;
+  }
+  .clip0-1524-2904 {
+    width: 30px;
+    height: 30px;
+  }
+  .twitter-964d7e53-svg {
+    margin-bottom: -39px;
+    margin-left: 207.25px;
+    padding: 7.5px 5px;
+  }
+  .clip0-1524-2905 {
+    width: 30px;
+    height: 25px;
+  }
+  .link {
+    margin-bottom: -41px;
+    margin-left: 259px;
+    position: relative;
+  }
+  .discord-25f7b34a-svg {
+    padding: 6.25px 6.25px 5px 7.5px;
+    position: absolute;
+    left: calc(50% - 26.25px / 2);
+    top: calc(50% - 28.75px / 2);
+  }
+  .clip0-1524-2907 {
+    width: 26.25px;
+    height: 28.75px;
+  }
+  .instagram-d70b2cd7-svg {
+    margin-left: 306px;
+    padding: 6.25px;
+  }
+  .clip0-1524-2908 {
+    width: 27.5px;
+    height: 27.5px;
+  }
+  .div-partners {
+    width: calc(100% - 906px);
+    height: calc(100% - 99px);
+    margin-bottom: 25px;
+    margin-left: 874px;
+    padding: 0 32px 0 0;
+  }
+  .nvidia-5a0ab065-svg {
+    margin-bottom: -40px;
+    padding: 0 0.79px 0 0;
+  }
+  .clip0-1524-2913 {
+    width: 128.21px;
+    height: 42px;
+  }
+  .alienware-3d98dd93-svg {
+    margin-bottom: -40px;
+    margin-left: 161px;
+    padding: 0 0.1px 0 0.21px;
+  }
+  .clip0-1524-2936 {
+    width: 170.69px;
+    height: 38px;
+  }
+  .amd-a823d277-svg {
+    margin-left: 364px;
+    padding: 0 0.83px 0 0.9px;
+  }
+  .clip0-1524-2951 {
+    width: 88.27px;
+    height: 42px;
+  }
+  .separator {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.11);
+    margin-bottom: 74px;
+  }
+  .separator-two {
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.11);
+  }
+  .before-two {
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    left: 0;
+    top: -47px;
+  }
