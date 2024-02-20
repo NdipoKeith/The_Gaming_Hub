@@ -13,3 +13,19 @@ A few resources to get you started on your gaming journey:
 - All that is required of an individual to begin their gaming journey is to simply type "(https://the-gaming-hub-144121991.hubspotpagebuilder.eu/the-gaming-hub)"
 and they will be redirected to the landing page. *NOTE THE WEBSITE IS STILL UNDER BETA DEVELOPMENT*
 - Read the instructions and the necessary requirements to sign up and join our community and "Let the games begin".
+
+## Technologies & Platforms
+
+HTML & CSS
+VSCode
+Hubspot
+
+## Contributers
+
+Keith Nyirenda (ndipokeith@gmail.com)
+
+## Profile Links
+
+Github: https://github.com/NdipoKeith
+LinkedIn: https://www.linkedin.com/in/keith-nyirenda/
+Blog Post: https://www.linkedin.com/pulse/gaminghub-keith-nyirenda-dufuf%3FtrackingId=dl7rpqh5Q1ixWY12ARXVFw%253D%253D/?trackingId=dl7rpqh5Q1ixWY12ARXVFw%3D%3D
