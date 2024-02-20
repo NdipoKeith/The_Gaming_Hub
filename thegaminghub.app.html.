@@ -1,690 +1,11 @@
-<!doctype html><html lang="en"><head>
-    <meta charset="utf-8">
-    <title>The Gaming Hub</title>
-    
-    <meta name="description" content="Welcome to Gaming, The Gaming Hub">
-    
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    
-    <meta property="og:description" content="Welcome to Gaming, The Gaming Hub">
-    <meta property="og:title" content="The Gaming Hub">
-    <meta name="twitter:description" content="Welcome to Gaming, The Gaming Hub">
-    <meta name="twitter:title" content="The Gaming Hub">
-
-    
-
-    
-    <style>
-a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
-</style>
-
-<link rel="stylesheet" href="//cdn2.hubspot.net/hub/7052064/hub_generated/template_assets/1707840719077/hubspot/basic_v2_theme/assets/css/main.min.css">
-<style>
-html {
-  font-size: 22px;
-}
-
-body {
-  color: #666666;
-  font-family: Lato;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  color: #666666;
-}
-
-a {
-  font-family: Merriweather;
-  color: #494a52;
-  font-style: normal;
-  font-weight: normal;
-  text-decoration: underline;
-}
-a:active {
-  color: #494a52;
-}
-a:visited {
-  color: #494a52;
-}
-a:hover {
-  color: #494a52;
-}
-
-/* One Line Inputs */
-input[type=text],
-input[type=password],
-input[type=datetime],
-input[type=datetime-local],
-input[type=date],
-input[type=month],
-input[type=time],
-input[type=week],
-input[type=number],
-input[type=email],
-input[type=url],
-input[type=search],
-input[type=tel],
-input[type=color],
-input[type=file],
-textarea,
-select {
-  color: #666666;
-  font-family: Lato;
-  font-size: 22px;
-}
-
-.hs-button,
-a.hs-button,
-input[type=submit],
-input[type=button] {
-  background-color: #494a52;
-  color: #fff;
-  border-radius: 6px;
-  font-family: Lato;
-}
-
-.basic__event_registration h1,
-.basic__event_registration h2,
-.basic__event_registration h3,
-.basic__event_registration h4,
-.basic__event_registration h5,
-.basic__event_registration h6,
-.basic__email_list_subscription h1,
-.basic__email_list_subscription h2,
-.basic__email_list_subscription h3,
-.basic__email_list_subscription h4,
-.basic__email_list_subscription h5,
-.basic__email_list_subscription h6,
-.basic__feature_page h1,
-.basic__feature_page h2,
-.basic__feature_page h3,
-.basic__feature_page h4,
-.basic__feature_page h5,
-.basic__feature_page h6,
-.basic__ebook_offer h1,
-.basic__ebook_offer h2,
-.basic__ebook_offer h3,
-.basic__ebook_offer h4,
-.basic__ebook_offer h5,
-.basic__ebook_offer h6 {
-  color: #494a52;
-  font-family: Merriweather;
-}</style>
-
-<link rel="stylesheet" href="https://cdn2.hubspot.net/hub/-1/hub_generated/module_assets/-47846617941/1707840861747/module_-47846617941_PQL_Content.min.css">
-
-  <style>
-  #hs_cos_wrapper_widget_1707906759934 hr {
-  border:0 none;
-  border-bottom-width:2px;
-  border-bottom-style:solid;
-  border-bottom-color:rgba(0,0,0,1.0);
-  margin-left:auto;
-  margin-right:auto;
-  margin-top:10px;
-  margin-bottom:10px;
-  width:100%;
-}
-
-  </style>
-
-
-    <style>
-      #hs-button_widget_1707910723947 {
-        
-          
-          display: inline-block;
-        
-        background-color: rgba(0, 0, 0,1.0);
-        color: #FFFF04;
-        
-        font-size: 20px;
-        
-        font-family: 'Rubik Glitch', cursive; font-style: normal; font-weight: normal; text-decoration: none;
-        
-          padding-top: px;
-          padding-bottom: px;
-        
-        
-          padding-left: px;
-          padding-right: px;
-        
-      }
-      #hs-button_widget_1707910723947:hover {
-        background-color: rgba(255, 255, 4,1.0);
-        color: rgba(0, 0, 0,1.0);
-        
-          padding-top: px;
-          padding-bottom: px;
-        
-        
-          padding-left: px;
-          padding-right: px;
-        
-
-      }
-    </style>
-  
-
-  <style>
-  #hs_cos_wrapper_module_17079072532753 hr {
-  border:0 none;
-  border-bottom-width:2px;
-  border-bottom-style:solid;
-  border-bottom-color:rgba(0,0,0,1.0);
-  margin-left:auto;
-  margin-right:auto;
-  margin-top:10px;
-  margin-bottom:10px;
-  width:100%;
-}
-
-  </style>
-
-<link rel="stylesheet" href="https://cdn2.hubspot.net/hub/-1/hub_generated/module_assets/-9362205/1707840917798/module_-9362205_Follow_Me_-_LP.min.css">
-
-    <style>
-      #hs-button_module_1707911730865 {
-        
-          
-          display: inline-block;
-        
-        background-color: rgba(0, 0, 0,1.0);
-        color: #FFFF04;
-        
-        font-size: 20px;
-        
-        font-weight: normal; text-decoration: underline; font-family: 'Rubik Glitch', cursive; font-style: normal;
-        
-          padding-top: 10px;
-          padding-bottom: 10px;
-        
-        
-          padding-left: 15px;
-          padding-right: 15px;
-        
-      }
-      #hs-button_module_1707911730865:hover {
-        background-color: rgba(255, 255, 4,1.0);
-        color: rgba(0, 0, 0,1.0);
-        
-          padding-top: 10px;
-          padding-bottom: 10px;
-        
-        
-          padding-left: 15px;
-          padding-right: 15px;
-        
-
-      }
-    </style>
-  
-<style>
-  @font-face {
-    font-family: "Rubik Glitch";
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url("/_hcms/googlefonts/Rubik_Glitch/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Rubik_Glitch/regular.woff") format("woff");
-  }
-  @font-face {
-    font-family: "Lato";
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url("/_hcms/googlefonts/Lato/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Lato/regular.woff") format("woff");
-  }
-  @font-face {
-    font-family: "Merriweather";
-    font-weight: 400;
-    font-style: normal;
-    font-display: swap;
-    src: url("/_hcms/googlefonts/Merriweather/regular.woff2") format("woff2"), url("/_hcms/googlefonts/Merriweather/regular.woff") format("woff");
-  }
-</style>
-
-<!-- Editor Styles -->
-<style id="hs_editor_style" type="text/css">
-#hs_cos_wrapper_widget_1707908704103  { display: block !important; padding-bottom: 14px !important }
-#hs_cos_wrapper_widget_1707910723947  { background-color: #000000 !important; background-image: none !important; border-color: #FFFF04 !important; border-radius: 47px !important; border-style: none !important; border-width: 33px !important; display: block !important; padding-bottom: 0px !important; padding-left: 0px !important; padding-top: 0px !important }
-#hs_cos_wrapper_dnd_area-module-22  { display: block !important; padding-bottom: 10px !important; padding-left: 0px !important }
-#hs_cos_wrapper_module_1707908134510  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_module_1707908134510  p , #hs_cos_wrapper_module_1707908134510  li , #hs_cos_wrapper_module_1707908134510  span , #hs_cos_wrapper_module_1707908134510  label , #hs_cos_wrapper_module_1707908134510  h1 , #hs_cos_wrapper_module_1707908134510  h2 , #hs_cos_wrapper_module_1707908134510  h3 , #hs_cos_wrapper_module_1707908134510  h4 , #hs_cos_wrapper_module_1707908134510  h5 , #hs_cos_wrapper_module_1707908134510  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_module_1707908122745  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_module_1707908122745  p , #hs_cos_wrapper_module_1707908122745  li , #hs_cos_wrapper_module_1707908122745  span , #hs_cos_wrapper_module_1707908122745  label , #hs_cos_wrapper_module_1707908122745  h1 , #hs_cos_wrapper_module_1707908122745  h2 , #hs_cos_wrapper_module_1707908122745  h3 , #hs_cos_wrapper_module_1707908122745  h4 , #hs_cos_wrapper_module_1707908122745  h5 , #hs_cos_wrapper_module_1707908122745  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_widget_1707903672562  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_widget_1707903672562  p , #hs_cos_wrapper_widget_1707903672562  li , #hs_cos_wrapper_widget_1707903672562  span , #hs_cos_wrapper_widget_1707903672562  label , #hs_cos_wrapper_widget_1707903672562  h1 , #hs_cos_wrapper_widget_1707903672562  h2 , #hs_cos_wrapper_widget_1707903672562  h3 , #hs_cos_wrapper_widget_1707903672562  h4 , #hs_cos_wrapper_widget_1707903672562  h5 , #hs_cos_wrapper_widget_1707903672562  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_module_1707908107158  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_module_1707908107158  p , #hs_cos_wrapper_module_1707908107158  li , #hs_cos_wrapper_module_1707908107158  span , #hs_cos_wrapper_module_1707908107158  label , #hs_cos_wrapper_module_1707908107158  h1 , #hs_cos_wrapper_module_1707908107158  h2 , #hs_cos_wrapper_module_1707908107158  h3 , #hs_cos_wrapper_module_1707908107158  h4 , #hs_cos_wrapper_module_1707908107158  h5 , #hs_cos_wrapper_module_1707908107158  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_module_1707911730865  { background-color: #000000 !important; background-image: none !important; border-color: #FFFF04 !important; border-radius: 47px !important; border-style: none !important; border-width: 33px !important; display: block !important; padding-bottom: 0px !important; padding-left: 0px !important; padding-top: 0px !important }
-#hs_cos_wrapper_widget_1707908704103  { display: block !important; padding-bottom: 14px !important }
-#hs_cos_wrapper_widget_1707910723947  { background-color: #000000 !important; background-image: none !important; border-color: #FFFF04 !important; border-radius: 47px !important; border-style: none !important; border-width: 33px !important; display: block !important; padding-bottom: 0px !important; padding-left: 0px !important; padding-top: 0px !important }
-#hs_cos_wrapper_dnd_area-module-22  { display: block !important; padding-bottom: 10px !important; padding-left: 0px !important }
-#hs_cos_wrapper_module_1707908134510  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_module_1707908134510  p , #hs_cos_wrapper_module_1707908134510  li , #hs_cos_wrapper_module_1707908134510  span , #hs_cos_wrapper_module_1707908134510  label , #hs_cos_wrapper_module_1707908134510  h1 , #hs_cos_wrapper_module_1707908134510  h2 , #hs_cos_wrapper_module_1707908134510  h3 , #hs_cos_wrapper_module_1707908134510  h4 , #hs_cos_wrapper_module_1707908134510  h5 , #hs_cos_wrapper_module_1707908134510  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_module_1707908122745  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_module_1707908122745  p , #hs_cos_wrapper_module_1707908122745  li , #hs_cos_wrapper_module_1707908122745  span , #hs_cos_wrapper_module_1707908122745  label , #hs_cos_wrapper_module_1707908122745  h1 , #hs_cos_wrapper_module_1707908122745  h2 , #hs_cos_wrapper_module_1707908122745  h3 , #hs_cos_wrapper_module_1707908122745  h4 , #hs_cos_wrapper_module_1707908122745  h5 , #hs_cos_wrapper_module_1707908122745  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_widget_1707903672562  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_widget_1707903672562  p , #hs_cos_wrapper_widget_1707903672562  li , #hs_cos_wrapper_widget_1707903672562  span , #hs_cos_wrapper_widget_1707903672562  label , #hs_cos_wrapper_widget_1707903672562  h1 , #hs_cos_wrapper_widget_1707903672562  h2 , #hs_cos_wrapper_widget_1707903672562  h3 , #hs_cos_wrapper_widget_1707903672562  h4 , #hs_cos_wrapper_widget_1707903672562  h5 , #hs_cos_wrapper_widget_1707903672562  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_module_1707908107158  { border-radius: 27px !important; border-style: solid !important; border-width: 0px !important; color: #0C5394 !important; display: block !important; line-height: 0px !important; padding-bottom: 14px !important; padding-top: 5px !important; text-align: left !important }
-#hs_cos_wrapper_module_1707908107158  p , #hs_cos_wrapper_module_1707908107158  li , #hs_cos_wrapper_module_1707908107158  span , #hs_cos_wrapper_module_1707908107158  label , #hs_cos_wrapper_module_1707908107158  h1 , #hs_cos_wrapper_module_1707908107158  h2 , #hs_cos_wrapper_module_1707908107158  h3 , #hs_cos_wrapper_module_1707908107158  h4 , #hs_cos_wrapper_module_1707908107158  h5 , #hs_cos_wrapper_module_1707908107158  h6  { color: #0C5394 !important; line-height: 0px !important }
-#hs_cos_wrapper_module_1707911730865  { background-color: #000000 !important; background-image: none !important; border-color: #FFFF04 !important; border-radius: 47px !important; border-style: none !important; border-width: 33px !important; display: block !important; padding-bottom: 0px !important; padding-left: 0px !important; padding-top: 0px !important }
-.dnd_area-row-0-background-image {
-  background-image: url('https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/2ff7b03aaa6645dd2263c569d0ff7f54.png1.png?width=2000&height=338.71546465733763') !important;
-  background-size: cover !important;
-  background-position: center center !important;
-  background-repeat: no-repeat !important;
-}
-.dnd_area-row-0-max-width-section-centering > .row-fluid {
-  max-width: 1200px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-.dnd_area-row-1-background-gradient {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 4, 1), rgba(0, 0, 0, 1)) !important;
-}
-.dnd_area-row-1-force-full-width-section > .row-fluid {
-  max-width: none !important;
-}
-.dnd_area-row-2-background-image {
-  background-image: url('https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/cyberpunk-2077-.png') !important;
-  background-size: cover !important;
-  background-position: center center !important;
-  background-repeat: no-repeat !important;
-}
-.dnd_area-row-2-max-width-section-centering > .row-fluid {
-  max-width: 1000px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-.dnd_area-row-3-background-gradient {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(255, 255, 4, 1)) !important;
-}
-.dnd_area-row-4-background-gradient {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 4, 1), rgba(255, 255, 4, 1)) !important;
-}
-.dnd_area-row-5-background-gradient {
-  background-image: linear-gradient(to bottom, rgba(255, 255, 4, 1), rgba(0, 0, 0, 1)) !important;
-}
-.dnd_area-row-5-max-width-section-centering > .row-fluid {
-  max-width: 1000px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-.dnd_area-row-6-background-image {
-  background-image: url('https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/d2d2394646891457db74295e762725528fc25d81-1920x1080.webp') !important;
-  background-size: cover !important;
-  background-position: center center !important;
-  background-repeat: no-repeat !important;
-}
-.dnd_area-row-6-force-full-width-section > .row-fluid {
-  max-width: none !important;
-}
-.dnd_area-module-2-flexbox-positioning {
-  display: -ms-flexbox !important;
-  -ms-flex-direction: column !important;
-  -ms-flex-align: start !important;
-  -ms-flex-pack: start;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-start !important;
-  justify-content: flex-start;
-}
-.dnd_area-module-2-flexbox-positioning > div {
-  max-width: 100%;
-  flex-shrink: 0 !important;
-}
-.widget_1707910723947-flexbox-positioning {
-  display: -ms-flexbox !important;
-  -ms-flex-direction: column !important;
-  -ms-flex-align: center !important;
-  -ms-flex-pack: start;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  justify-content: flex-start;
-}
-.widget_1707910723947-flexbox-positioning > div {
-  max-width: 100%;
-  flex-shrink: 0 !important;
-}
-.dnd_area-module-9-flexbox-positioning {
-  display: -ms-flexbox !important;
-  -ms-flex-direction: column !important;
-  -ms-flex-align: end !important;
-  -ms-flex-pack: start;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: flex-end !important;
-  justify-content: flex-start;
-}
-.dnd_area-module-9-flexbox-positioning > div {
-  max-width: 100%;
-  flex-shrink: 0 !important;
-}
-.module_1707911730865-flexbox-positioning {
-  display: -ms-flexbox !important;
-  -ms-flex-direction: column !important;
-  -ms-flex-align: center !important;
-  -ms-flex-pack: start;
-  display: flex !important;
-  flex-direction: column !important;
-  align-items: center !important;
-  justify-content: flex-start;
-}
-.module_1707911730865-flexbox-positioning > div {
-  max-width: 100%;
-  flex-shrink: 0 !important;
-}
-.dnd-area__footer-row-0-background-gradient {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(255, 255, 4, 1)) !important;
-}
-/* HubSpot Non-stacked Media Query Styles */
-@media (min-width:768px) {
-  .dnd_area-row-0-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-row-2-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-row-3-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-row-5-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-row-6-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .cell_1707908705076-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .cell_1707908705076-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .cell_17078613843962-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .cell_17078613843962-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .cell_17078613843962-row-0-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-module-2-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-module-2-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd_area-column-1-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-column-1-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd_area-column-1-row-0-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-column-4-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-column-4-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd_area-column-16-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-column-16-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd_area-column-7-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-column-7-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd_area-column-7-row-0-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd_area-module-9-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-module-9-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .cell_1707903673516-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .cell_1707903673516-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd_area-column-13-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd_area-column-13-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .cell_1707864003424-row-1-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .cell_17078641060432-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .cell_17078641060432-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-  .dnd-area__footer-column-1-row-0-vertical-alignment > .row-fluid {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: row;
-    display: flex !important;
-    flex-direction: row;
-  }
-  .dnd-area__footer-module-2-vertical-alignment {
-    display: -ms-flexbox !important;
-    -ms-flex-direction: column !important;
-    -ms-flex-pack: center !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important;
-  }
-  .dnd-area__footer-module-2-vertical-alignment > div {
-    flex-shrink: 0 !important;
-  }
-}
-/* HubSpot Styles (default) */
-.dnd_area-row-1-padding {
-  padding-top: 5px !important;
-  padding-bottom: 0px !important;
-}
-.dnd_area-row-2-padding {
-  padding-top: 80px !important;
-  padding-bottom: 80px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-row-3-padding {
-  padding-top: 80px !important;
-  padding-bottom: 80px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-row-5-padding {
-  padding-top: 80px !important;
-  padding-bottom: 80px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-row-6-padding {
-  padding-top: 140px !important;
-  padding-bottom: 160px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-column-4-row-0-padding {
-  padding-top: 0px !important;
-  padding-bottom: 20px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-column-20-row-0-padding {
-  padding-left: 20px !important;
-  padding-right: 2px !important;
-}
-.dnd_area-column-20-row-1-padding {
-  padding-bottom: 0px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-column-17-row-0-padding {
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.dnd_area-column-17-row-1-padding {
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-.module_1707908122745-hidden {
-  display: none !important;
-}
-.widget_1707903672562-hidden {
-  display: none !important;
-}
-.module_1707908107158-hidden {
-  display: none !important;
-}
-.dnd_area-column-13-row-0-padding {
-  padding-top: 0px !important;
-  padding-bottom: 40px !important;
-  padding-left: 0px !important;
-  padding-right: 0px !important;
-}
-.dnd-area__footer-row-0-padding {
-  padding-top: 40px !important;
-  padding-bottom: 40px !important;
-  padding-left: 20px !important;
-  padding-right: 20px !important;
-}
-</style>
-    
-
-    
-    <link rel="canonical" href="http://thegaminghub.kesug.com/the-gaming-hub">
-
-
-<meta property="og:image" content="https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/TGH.png#keepProtocol">
-<meta property="og:image:width" content="1414">
-<meta property="og:image:height" content="2000">
-
-<meta name="twitter:image" content="https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/TGH.png#keepProtocol">
-
-
-<meta property="og:url" content="http://thegaminghub.kesug.com/the-gaming-hub">
-<meta name="twitter:card" content="summary_large_image">
-<meta http-equiv="content-language" content="en">
-
-
-
-
-
-
-    
+#This serves a website
+#Which is both interactive and responsive
+#Simple but effective html code
     
   <meta name="generator" content="HubSpot"></head>
   <body>
     <div class="body-wrapper">
       
-      
-
       
   <div class="dnd-content-area basic__feature_page">
     <div class="body-container-wrapper">
@@ -703,11 +24,6 @@ input[type=button] {
 <div class="span12 widget-span widget-type-custom_widget dnd_area-module-2-vertical-alignment dnd-module dnd_area-module-2-flexbox-positioning" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
 <div id="hs_cos_wrapper_dnd_area-module-2" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo widget-type-logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
   
-
-
-
-
-
   <span id="hs_cos_wrapper_dnd_area-module-2_hs_logo_widget" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="//the-gaming-hub-144121991.hubspotpagebuilder.eu/?hsLang=en" id="hs-link-dnd_area-module-2_hs_logo_widget" style="border-width:0px;border:0px;"><img src="https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=137&amp;height=110&amp;name=TGH.png2.png" class="hs-image-widget " height="110" style="height: auto;width:137px;border-width:0px;border:0px;" width="137" alt="TGH.png2" title="TGH.png2" loading="eager" srcset="https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=69&amp;height=55&amp;name=TGH.png2.png 69w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=137&amp;height=110&amp;name=TGH.png2.png 137w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=206&amp;height=165&amp;name=TGH.png2.png 206w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=274&amp;height=220&amp;name=TGH.png2.png 274w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=343&amp;height=275&amp;name=TGH.png2.png 343w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/TGH.png2.png?width=411&amp;height=330&amp;name=TGH.png2.png 411w" sizes="(max-width: 137px) 100vw, 137px"></a></span>
 </div>
 
@@ -739,11 +55,6 @@ input[type=button] {
 <div class="row-fluid ">
 <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
 <div id="hs_cos_wrapper_widget_1707906759934" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-
-
-
-
-
 
 
 <hr></div>
@@ -781,12 +92,9 @@ input[type=button] {
 <div id="hs_cos_wrapper_widget_1707910723947" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
   
 
-
-
 <a class="hs-button " href="www.hubspot.com?hsLang=en" id="hs-button_widget_1707910723947" rel="">
   GET   STARTED
 </a>
-
 
   
 </div>
@@ -817,8 +125,6 @@ input[type=button] {
 <div id="hs_cos_wrapper_dnd_area-module-18" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
     
 
-
-
 <span id="hs_cos_wrapper_dnd_area-module-18_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=280&amp;height=310&amp;name=Screenshot%20(1197)-1.png" class="hs-image-widget " width="280" height="310" alt="Screenshot (1197)-1" title="Screenshot (1197)-1" srcset="https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=140&amp;height=155&amp;name=Screenshot%20(1197)-1.png 140w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=280&amp;height=310&amp;name=Screenshot%20(1197)-1.png 280w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=420&amp;height=465&amp;name=Screenshot%20(1197)-1.png 420w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=560&amp;height=620&amp;name=Screenshot%20(1197)-1.png 560w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=700&amp;height=775&amp;name=Screenshot%20(1197)-1.png 700w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1197)-1.png?width=840&amp;height=930&amp;name=Screenshot%20(1197)-1.png 840w" sizes="(max-width: 280px) 100vw, 280px"></span></div>
 
 </div><!--end widget-span -->
@@ -843,9 +149,6 @@ input[type=button] {
 <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
 <div id="hs_cos_wrapper_dnd_area-module-21" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image widget-type-linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
     
-
-
-
 
 <span id="hs_cos_wrapper_dnd_area-module-21_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><img src="https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=534&amp;height=270&amp;name=Screenshot%20(1191).png" class="hs-image-widget " width="534" height="270" alt="Screenshot (1191)" title="Screenshot (1191)" srcset="https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=267&amp;height=135&amp;name=Screenshot%20(1191).png 267w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=534&amp;height=270&amp;name=Screenshot%20(1191).png 534w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=801&amp;height=405&amp;name=Screenshot%20(1191).png 801w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=1068&amp;height=540&amp;name=Screenshot%20(1191).png 1068w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=1335&amp;height=675&amp;name=Screenshot%20(1191).png 1335w, https://144121991.fs1.hubspotusercontent-eu1.net/hub/144121991/hubfs/Screenshot%20(1191).png?width=1602&amp;height=810&amp;name=Screenshot%20(1191).png 1602w" sizes="(max-width: 534px) 100vw, 534px"></span></div>
 
@@ -879,8 +182,6 @@ input[type=button] {
 <div class="row-fluid ">
 <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
 <div id="hs_cos_wrapper_module_17079072532753" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
-
-
 
 
 <hr></div>
@@ -918,9 +219,6 @@ input[type=button] {
 <div class="span12 widget-span widget-type-custom_widget dnd-module" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
 <div id="hs_cos_wrapper_module_1707908134510" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
 
-
-
-
 <div class="social-links social-links--left social-links--white">
  
     
@@ -930,14 +228,10 @@ input[type=button] {
       
         
           <img src="https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/GitHub-logo.png" alt="GitHub-logo" style="height: 40px" ;>
-        
-      
+          
       
     </a>
   
-    
-
-   
 
     <a href="https://www.linkedin.com/in/keith-nyirenda/" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://www.linkedin.com/in/keith-nyirenda/}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=linkedin, network_image={alt=null, height=null, loading=disabled, max_height=null, max_width=null, size_type=null, src=, width=null}, twitter_icon=twitter}" style="padding-left: 5px; padding-right: 5px;" target="_blank" rel="noopener">
       
@@ -964,9 +258,6 @@ input[type=button] {
 <div id="hs_cos_wrapper_module_1707908122745" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
 
 
-
-
-
 <div class="social-links social-links--left social-links--white">
  
     
@@ -978,13 +269,7 @@ input[type=button] {
         
       
       
-    </a>
-  
-    
-
-    
-    
-    
+    </a> 
 
     <a href="https://www.linkedin.com/in/keith-nyirenda/" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://www.linkedin.com/in/keith-nyirenda/}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=linkedin, network_image={alt=null, height=null, loading=disabled, max_height=null, max_width=null, size_type=null, src=, width=null}, twitter_icon=twitter}" style="padding-left: 5px; padding-right: 5px;" target="_blank" rel="noopener">
       
@@ -993,9 +278,7 @@ input[type=button] {
                        
                        height: 40px; width: 40px;">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="linkedin-in1_layer"><path d="M100.3 480H7.4V180.9h92.9V480zM53.8 140.1C24.1 140.1 0 115.5 0 85.8 0 56.1 24.1 32 53.8 32c29.7 0 53.8 24.1 53.8 53.8 0 29.7-24.1 54.3-53.8 54.3zM448 480h-92.7V334.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V480h-92.8V180.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V480z" /></g></svg>
-          </span>
-        
-      
+          </span>   
       
     </a>
   
@@ -1011,31 +294,15 @@ input[type=button] {
 <div id="hs_cos_wrapper_widget_1707903672562" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
 
 
-
-
-
-
-
-
-
 <div class="social-links social-links--left social-links--white">
  
-    
-
-
     <a href="https://github.com/NdipoKeith/The_Gaming_Hub" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://github.com/NdipoKeith/The_Gaming_Hub}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=icon, network_image={alt=GitHub-logo, height=2160, loading=disabled, size_type=null, src=https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/GitHub-logo.png, width=3840}, twitter_icon=twitter}" style="padding-left: 5px; padding-right: 5px;" target="_blank" rel="noopener">
       
         
           <img src="https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/GitHub-logo.png" alt="GitHub-logo" style="height: 40px" ;>
-        
-      
-      
-    </a>
-  
-    
 
-    
-    
+      
+    </a> 
 
     <a href="https://www.linkedin.com/in/keith-nyirenda/" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://www.linkedin.com/in/keith-nyirenda/}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=linkedin, network_image={alt=null, height=null, loading=disabled, max_height=null, max_width=null, size_type=null, src=, width=null}, twitter_icon=twitter}" style="padding-left: 5px; padding-right: 5px;" target="_blank" rel="noopener">
       
@@ -1062,25 +329,16 @@ input[type=button] {
 <div id="hs_cos_wrapper_module_1707908107158" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
 
 
-
-
 <div class="social-links social-links--left social-links--white">
  
-    
-
-
     <a href="https://github.com/NdipoKeith/The_Gaming_Hub" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://github.com/NdipoKeith/The_Gaming_Hub}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=icon, network_image={alt=GitHub-logo, height=2160, loading=disabled, size_type=null, src=https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/GitHub-logo.png, width=3840}, twitter_icon=twitter}" style="padding-left: 5px; padding-right: 5px;" target="_blank" rel="noopener">
       
         
           <img src="https://144121991.fs1.hubspotusercontent-eu1.net/hubfs/144121991/GitHub-logo.png" alt="GitHub-logo" style="height: 40px" ;>
-        
-      
-      
+           
     </a>
   
     
-
-
     <a href="https://www.linkedin.com/in/keith-nyirenda/" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://www.linkedin.com/in/keith-nyirenda/}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=linkedin, network_image={alt=null, height=null, loading=disabled, max_height=null, max_width=null, size_type=null, src=, width=null}, twitter_icon=twitter}" style="padding-left: 5px; padding-right: 5px;" target="_blank" rel="noopener">
       
         
@@ -1147,14 +405,10 @@ input[type=button] {
 <div id="hs_cos_wrapper_module_1707911730865" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
   
 
-
-
 <a class="hs-button " href="www.hubspot.com?hsLang=en" id="hs-button_module_1707911730865" rel="">
   SUBSCRIBE
 </a>
 
-
-  
 </div>
 
 </div><!--end widget-span -->
@@ -1209,7 +463,6 @@ input[type=button] {
           </span>
         
       
-      
     </a>
   
  
@@ -1221,12 +474,8 @@ input[type=button] {
                        height: 40px; width: 40px;">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512" aria-hidden="true"><g id="instagram2_layer"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" /></g></svg>
           </span>
-        
-      
       
     </a>
-  
-
 
     <a href="https://twitter.com/RockstarGames" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://twitter.com/RockstarGames}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=twitter, twitter_icon=x-twitter}" style="padding-left: 1px; padding-right: 1px;" target="_blank" rel="noopener">
       
@@ -1236,13 +485,9 @@ input[type=button] {
                        height: 40px; width: 40px;">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512" aria-hidden="true"><g id="X Twitter3_layer"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></g></svg>
           </span>
-        
-      
-      
+          
     </a>
   
-
-
     <a href="https://www.youtube.com/@CyberpunkGame/videos" class="social-links__icon social-links__icon--{link={url={type=EXTERNAL, content_id=null, href=https://www.youtube.com/@CyberpunkGame/videos}, open_in_new_tab=true, no_follow=false, sponsored=false, user_generated_content=false, rel=noopener}, network=youtube, network_image={alt=null, height=null, loading=disabled, max_height=null, max_width=null, size_type=null, src=, width=null}, twitter_icon=twitter}" style="padding-left: 1px; padding-right: 1px;" target="_blank" rel="noopener">
       
         
@@ -1250,9 +495,7 @@ input[type=button] {
                        
                        height: 40px; width: 40px;">
             <svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512" aria-hidden="true"><g id="youtube4_layer"><path d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z" /></g></svg>
-          </span>
-        
-      
+          </span>  
       
     </a>
 
@@ -1282,12 +525,6 @@ input[type=button] {
       </div>
     </div>
   </div>
-
-
-      
-      
-
-      
 
       
         <div id="hs_cos_wrapper_branding" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
@@ -1369,10 +606,7 @@ var hsVars = {
 }
 </script>
 
-
 <script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.191/js/index.js"></script>
-
-
 
 
   
