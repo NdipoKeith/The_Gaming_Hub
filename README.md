@@ -2,7 +2,10 @@
 
 Projekt Code Name: The Gaming Hub.
 
-A website that connects (A Gamer) to the (Perfect Game).
+A website that connects (A Gamer) to the (Perfect Game)
+
+<img width="444" alt="Screenshot (1203) png1" src="https://github.com/NdipoKeith/The_Gaming_Hub/assets/75925228/8c919ada-1532-41d3-97f5-d28db1db249b">
+<img width="315" alt="Screenshot (1204) png2" src="https://github.com/NdipoKeith/The_Gaming_Hub/assets/75925228/6153a8a2-638d-45a0-a7cb-40369fe13c42">
 
 
 ## Getting Started
