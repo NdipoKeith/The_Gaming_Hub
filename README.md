@@ -14,8 +14,8 @@ This projekt is a starting point to a whole different dimension and understandin
 
 A few resources to get you started on your gaming journey:
 
-- All that is required of an individual to begin their gaming journey is to simply type "(https://the-gaming-hub-144121991.hubspotpagebuilder.eu/the-gaming-hub)"
-and they will be redirected to the landing page. *NOTE THE WEBSITE IS STILL UNDER BETA DEVELOPMENT*
+- All that is required of an individual to begin their gaming journey, is to simply type "(https://the-gaming-hub-144121991.hubspotpagebuilder.eu/the-gaming-hub-0)"
+into their browser and they will be redirected to the landing page. *NOTE THE WEBSITE IS STILL UNDER BETA DEVELOPMENT*
 - Read the instructions and the necessary requirements to sign up and join our community and "Let the games begin".
 
 
